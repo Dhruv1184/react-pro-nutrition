@@ -1,0 +1,35 @@
+.body,.div{
+  display: flex;
+  /* border: 1px solid black; */
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 6vh;
+  margin: 3vh;
+}
+img{
+  height: 20vh;
+}
+.div{
+  width: 50vw;
+  border: 1px solid black;
+  background-color:gainsboro;
+}
+h3{
+  font-size: 5vh;
+}
+h5{
+  font-weight: lighter;
+  font-size: 3vh;
+}
+h2{
+  font-size: 5vh;
+}
+.src{
+  text-align: center;
+}
+.srcbox{
+  font-size: 3vh;
+}
+.resetbtn{
+  font-size: 3vh;
+}
